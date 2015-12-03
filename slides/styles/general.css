@@ -1,0 +1,53 @@
+h2.light {
+    color: #CCCCCA;
+}
+
+ul.list {
+    list-style-type: none;
+}
+
+ul.list img {
+    border: none;
+    box-shadow: none;
+    vertical-align: middle;
+}
+
+ul.list li.fade {
+    opacity: 0.1;
+}
+
+pre.half {
+    width: 50%;
+    display:inline-block;
+    float:left;
+}
+
+img.left {
+    float: left;
+    display: inline-block;
+}
+
+section .note {
+    margin-top: 3em;
+    border: 1px solid lightgray;
+    padding: 10px;
+    color: #76A5BE;
+    font-size: 0.8em;
+}
+
+section .list-left {
+    float: left;
+    padding-left: 50px;
+}
+
+section .profile {
+    display: inline-block;
+    width: 280px;
+    margin-top: 80px;
+    padding: 30px;
+}
+
+.reveal section img {
+    border: none;
+    box-shadow: none;
+}
